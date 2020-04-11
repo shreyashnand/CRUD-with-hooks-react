@@ -4,7 +4,6 @@
 App is live at [crud-react-hooks](http://crud-react-hooks.surge.sh/)
 
 
-#if it doesn't open then please be generous to type the link name in your browser. It will work
 
 
 ## Available Scripts
