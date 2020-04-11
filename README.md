@@ -1,7 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-App is live at [crud-react-hooks.surge.sh](crud-react-hooks.surge.sh)
+
+App is live at [crud-react-hooks] (crud-react-hooks.surge.sh)
+#if it doesn't open then please be generous to type the link name in your browser. It will work
 
 
 ## Available Scripts
